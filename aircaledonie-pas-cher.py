@@ -13,7 +13,7 @@ import datetime
 delaidepart = 15 # en jours, dans combien de jours souhaitez-vous partir au plus tôt
 departauplustard = 40 # en jours,  dans combien de jours souhaitez-vous partir au plus tard
 dureesejourmin = 3 # durée minimale du séjour en jours (exemple 3 = 2 jours, 2 nuits)
-dureesejourmax = 7 # surée maximale du séjour en jours
+dureesejourmax = 7 # durée maximale du séjour en jours
 prixmax = 16000 # prix maximum pour 1 personne aller-retour
 destination = "LIF" # code destination, liste ci-dessous
 
